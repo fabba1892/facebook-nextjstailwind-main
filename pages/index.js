@@ -35,3 +35,5 @@ export async function getServerSideProps(context) {
     },
   };
 }
+
+// jit mode and styling changed
