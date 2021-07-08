@@ -10,3 +10,5 @@ function MyApp({ Component, pageProps }) {
 }
 
 export default MyApp;
+
+// created env file and wrap the app
