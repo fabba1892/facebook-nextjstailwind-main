@@ -21,3 +21,5 @@ function Login() {
 }
 
 export default Login;
+
+// login buttn & onclik takes to fb & redirect to app
