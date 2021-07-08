@@ -11,3 +11,5 @@ export default NextAuth({
     // ...add more providers here
   ],
 });
+
+// yarn next auth and fb dev api
