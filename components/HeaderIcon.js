@@ -14,3 +14,5 @@ function HeaderIcon({ Icon, active }) {
 }
 
 export default HeaderIcon;
+
+// header icons and search left/center styled

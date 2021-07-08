@@ -79,3 +79,4 @@ function Header() {
 export default Header;
 
 // header search corrected
+// header icons and search left/center styled
