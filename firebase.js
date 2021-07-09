@@ -18,3 +18,5 @@ const db = app.firestore();
 const storage = firebase.storage();
 
 export { db, storage };
+
+// yarn add firebase and import firebase
