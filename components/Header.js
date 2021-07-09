@@ -82,3 +82,4 @@ export default Header;
 // header icons and search left/center styled
 // left middle header sections
 // right side header and icon corrected
+// now have users info/image and signout
