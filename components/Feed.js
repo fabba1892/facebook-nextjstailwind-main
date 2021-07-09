@@ -16,3 +16,4 @@ function Feed() {
 export default Feed;
 
 // feed story and storycards with pics
+// inputBox top part created

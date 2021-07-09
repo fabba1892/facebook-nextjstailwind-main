@@ -143,3 +143,5 @@ function InputBox() {
 }
 
 export default InputBox;
+
+// inputBox top part created
