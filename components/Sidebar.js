@@ -32,3 +32,4 @@ function Sidebar() {
 export default Sidebar;
 
 // sidebar icons and user info
+// feed sorted and corrected
