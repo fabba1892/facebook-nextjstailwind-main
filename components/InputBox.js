@@ -145,3 +145,4 @@ function InputBox() {
 export default InputBox;
 
 // inputBox top part created
+// now button submit and doesnt refresh page
