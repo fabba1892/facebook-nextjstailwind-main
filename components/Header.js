@@ -83,3 +83,4 @@ export default Header;
 // left middle header sections
 // right side header and icon corrected
 // now have users info/image and signout
+// pull name and pro pic from fb
