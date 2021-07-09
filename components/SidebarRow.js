@@ -20,3 +20,4 @@ function SidebarRow({ src, Icon, title }) {
 }
 
 export default SidebarRow;
+// hover and felx style
