@@ -149,3 +149,4 @@ export default InputBox;
 // input icons and global style
 // functn to post message
 // filepickerRef and add Image, setImage state
+// image to post and remove image working
