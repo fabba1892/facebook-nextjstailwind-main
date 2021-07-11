@@ -150,3 +150,4 @@ export default InputBox;
 // functn to post message
 // filepickerRef and add Image, setImage state
 // image to post and remove image working
+// upload function and state change
