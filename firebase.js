@@ -20,3 +20,4 @@ const storage = firebase.storage();
 export { db, storage };
 
 // yarn add firebase and import firebase
+// firebase db /storage app initialize created
