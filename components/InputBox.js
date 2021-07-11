@@ -148,3 +148,4 @@ export default InputBox;
 // now button submit and doesnt refresh page
 // input icons and global style
 // functn to post message
+// filepickerRef and add Image, setImage state
